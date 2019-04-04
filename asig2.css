@@ -1,0 +1,73 @@
+.fi{
+    font-size: 18px;
+}
+
+main h3{
+    font-size: 10px;
+      background-color: rgba(146, 30, 161, 0.89);
+    width: 200px;
+    color:white;
+    font-weight: normal;
+    font-family: times NEW Roman;
+}
+.back1 {
+  background-image: url(back1.png);
+ 
+}
+
+.p2{
+  
+  text-align: center;
+  font-family: tahoma;
+  font-size: 21px;
+  max-width: 700px;
+  margin: auto;
+  padding: 4px;
+}
+ul{
+  
+  list-style-type: none;
+  margin: 0px;
+  text-align: right;
+  
+}
+li{
+
+display: inline-block;
+padding: 6px;
+
+}
+.CON p{
+  margin:0px;
+  font-family: tahoma;
+  max-width: 200px;
+  
+}
+.CON{
+ max-width: 700px;;
+margin:0px;
+}
+.later img{max-width: 200px;
+float: right;
+
+
+}
+.all {
+  max-width: 700px;
+  margin: auto;
+  padding: -4px;
+
+}
+.p2 img{margin:8px;
+padding: 2px;
+
+}
+footer{background: black;
+height: 50px;
+color:rgb(122, 121, 121);}
+footer table{max-width: 800px;
+border-color: rgb(134, 133, 131);}
+ footer table b{background-color: white;
+color: black;}
+footer table a{color:rgb(225, 255, 255);
+}
